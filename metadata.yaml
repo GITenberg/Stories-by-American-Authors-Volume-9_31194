@@ -1,0 +1,30 @@
+_repo: Stories-by-American-Authors-Volume-9_31194
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2010-02-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31194'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, American'
+- !lcc 'PS'
+- !lcsh 'United States -- Social life and customs -- Fiction'
+tableOfContents: "Marse Chan, by Thomas Nelson Page\r\nMr. Bixby's Christmas visitor,\
+  \ by Charles S. Gage\r\nEli, by C.H. White\r\nYoung Strong of \"The Clarion\", by\
+  \ Milicent Washburn Shinn\r\nHow old Wiggins wore ship, by Captain Roland T. Coffin\r\
+  \n\"--Mas has come\", by Leonard Kip."
+title: Stories by American Authors, Volume 9
+url: http://www.gutenberg.org/ebooks/31194
